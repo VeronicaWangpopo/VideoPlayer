@@ -90,6 +90,7 @@ function getFormattedTime() {
     return  minutes + ':' + seconds + ' / ' + totalMinutes + ':' + totalSeconds ;
 }
 
+
 //Sound Control
 function muteOrUnmute() {
     if(!video.muted) {
