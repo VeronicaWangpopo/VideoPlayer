@@ -7,3 +7,4 @@
 使用語言:HTML、CSS、JavaScript
 
 參考 https://www.udemy.com/html5-video-player/learn/v4/content 課程
+Demo https://veronicawangpopo.github.io/VideoPlayer/player
